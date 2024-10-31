@@ -1,0 +1,14 @@
+data
+outputs
+sample.py
+
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+.DS_Store
+.env
+.venv
